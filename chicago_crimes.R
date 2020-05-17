@@ -2,6 +2,8 @@ chicago_crimes <- function(id, label = "chicago_crimes1") {
   # Create a namespace function using the provided id
   ns <- NS(id)
   
+  XD
+  
   mainPanel(width=12,
               fixedRow(
                 h1("Chicago crimes"),
